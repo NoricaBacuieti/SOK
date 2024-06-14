@@ -25,8 +25,8 @@ To obtain the results from the thesis:
 1. For experiments 1-6:   Use **1 GPU:** 64 CPU cores, 96 GB Sys RAM, 24/48 GB per GPU RAM, 200 GB disk memory 
 2. For experiment 7:      Use **6 GPUs:** 128 CPU cores, 516 GB Sys RAM, 24/48 GB per GPU RAM, 200 GB disk memory
 
-Machines can be rented from VAST.ai for experiments: Image: tensorflow/tensorflow, Template: Tensorflow latest, Image cuda version: 12.3
-For experiments using DBIT, there are library incompatibilities due to the images available, so run the code on Google Colab using the A100 GPU, which can also be rented.
+*Machines can be rented from VAST.ai for experiments: Image: tensorflow/tensorflow, Template: Tensorflow latest, Image cuda version: 12.3
+*For experiments using DBIT, there are library incompatibilities due to the images available, so run the code on Google Colab using the A100 GPU, which can also be rented.
 
 ## Libraries
 Aside from the libraries used in the two repositories that you will download (specified in their readme's), I have used:
